@@ -34,4 +34,4 @@ resultado = busca_sequencial(vetor[6],varx, i);
 printf ("Resultado = %d\"", i);
 
 return 0;
-  }
+  }.
